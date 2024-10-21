@@ -1,1 +1,1 @@
-# snake-game
+mentor project
